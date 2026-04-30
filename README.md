@@ -153,8 +153,8 @@ param_grid = {
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/deckardLong/heart-disease-classification.git
-   cd heart-disease-classification
+   git clone https://github.com/deckardLong/heart-disease.git
+   cd heart-disease
    ```
 
 2. **Install dependencies:**
