@@ -153,7 +153,7 @@ param_grid = {
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/heart-disease-classification.git
+   git clone https://github.com/deckardLong/heart-disease-classification.git
    cd heart-disease-classification
    ```
 
